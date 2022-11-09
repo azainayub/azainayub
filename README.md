@@ -1,6 +1,6 @@
 ### Hi there, I'm Azain Ayub 👋
 
-- 🔭 I’m currently working on [Course Manager](https://github.com/azainayub/coursemanager)
+
 - 📫 How to reach me: 📧[Email](mailto:azain.ayub2014@gmail.com), [Twitter](https://twitter.com/azain_ayub)
 - 😄 Pronouns: He/Him
 
