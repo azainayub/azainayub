@@ -2,7 +2,6 @@
 
 
 - 📫 How to reach me: 📧[Email](mailto:azain.ayub2014@gmail.com), [Twitter](https://twitter.com/azain_ayub)
-- 😄 Pronouns: He/Him
 
 <!--
 **azainayub/azainayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
