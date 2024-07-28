@@ -1,9 +1,10 @@
 ### Hi there, I'm Azain Ayub 👋
 
 
-### - 📫 How to reach me: 📧[Email](mailto:azain.ayub2014@gmail.com)
+
 
 <!--
+- 📫 How to reach me: 📧[Email](mailto:azain.ayub2014@gmail.com)
 **azainayub/azainayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
